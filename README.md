@@ -39,7 +39,7 @@ The raw dataset had several real-world data quality problems that had to be reso
 - Data model built on the cleaned CSV outputs, with a proper one-to-many relationship (`movies` → `movie_genres`)
 - Custom DAX measures for KPIs (Total Movies, Avg Rating, Rated Movies %, Total Genres)
 - Dashboard includes: KPI summary cards, year-wise release trend, genre-wise distribution and rating analysis, language breakdown, and a movie poster gallery (using Image URL data category)
-- 📊 File: [`powerbi/Movie_Analytics_Dashboard.pbix`](powerbi/Movie_Analytics_Dashboard.pbix)
+- 📊 File: [`powerbi/Movie_Analytics_Dashboard.pbix`](https://github.com/ipshitav71-wq/movie-data-analytics-dashboard/tree/main)
 
 ---
 

@@ -33,7 +33,7 @@ The raw dataset had several real-world data quality problems that had to be reso
 - Cleaned and transformed the raw CSV using **Pandas**
 - Built a normalized **genre bridge table** (long format) to correctly handle multi-genre movies
 - Exploratory analysis with **Matplotlib** / **Seaborn**: rating distribution, genre trends, popularity vs rating
-- 📓 Notebook: Movie_Data_Cleaning_EDA.ipynb
+- 📓 Notebook: Movie_Data_Cleaning_EDA.ipynb (https://github.com/ipshitav71-wq/movie-data-analytics-dashboard/tree/main)
 
 ### 2. Power BI — Interactive Dashboard
 - Data model built on the cleaned CSV outputs, with a proper one-to-many relationship (`movies` → `movie_genres`)

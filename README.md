@@ -45,7 +45,7 @@ The raw dataset had several real-world data quality problems that had to be reso
 
 ## 📸 Dashboard Preview
 
-*(Add screenshot here — e.g. `![Dashboard](screenshots/dashboard_overview.png)`)*
+*(Add screenshot here — e.g. `![Dashboard (https://github.com/ipshitav71-wq/movie-data-analytics-dashboard/blob/main/Screenshot%202026-07-07%20145433.png)*
 
 ---
 

@@ -87,6 +87,15 @@ jupyter notebook notebooks/Movie_Data_Cleaning_EDA.ipynb
 **Power BI:**
 Open `powerbi/Movie_Analytics_Dashboard.pbix` in Power BI Desktop.
 
+⚠️ Copyright & Disclaimer
+
+
+-This is an independent, non-commercial student portfolio project created for learning and demonstration purposes only.
+-The dataset used (TMDB Movies dataset) was sourced from a public Kaggle listing. Movie titles, posters, and metadata belong to their respective copyright holders (including TMDB and individual studios/production companies); no ownership is claimed over this content.
+-Poster images are displayed via publicly available URLs solely for visual/educational reference within the dashboard.
+-This project is not affiliated with, endorsed by, or sponsored by TMDB or any film studio/streaming platform.
+-All code, analysis, and documentation in this repository were written independently by the author and may be used for reference/learning purposes.
+
 ---
 
 ## 📝 Note
